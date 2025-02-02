@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-empower {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    padding: 20px;
+}
+
+.bg-head {
+    color: #ffffff;
+    font-size: 28px;
+    margin: 10px;
+    padding: 5px;
+    font-family: "Roboto";
+}
+
+.bg-para {
+    color: #ffffff;
+    font-size: 14px;
+    margin: 10px;
+    padding: 5px;
+    font-family: "Roboto";
+}
+
+.empower-img {
+    height: 30px;
+    width: 30px;
+}
+
+.empower-img-text {
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 12px;
+}
+
+.empower-img-container {
+    background-color: #ffffff;
+    margin: 15px;
+    padding: 20px;
+    height: 110px;
+    width: 120px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+
+.bg-head-tech {
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Roboto";
+    text-align: left;
+    padding: 5px;
+    margin: 5px;
+}
+
+.bg-para-tech {
+    color: #ffffff;
+    font-size: 14px;
+    margin: 3px;
+    padding: 4px;
+    font-family: "Roboto";
+}
